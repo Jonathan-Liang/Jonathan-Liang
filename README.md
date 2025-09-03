@@ -1,23 +1,44 @@
 <h1 align="center">Hi 👋, I'm Jonathan Liang</h1>
-<h3 align="center">A passionate computer science student at Georgia Tech.</h3>
+<h3 align="center">Computer Science Student @ Georgia Tech | Previous SDE Intern @ Amazon</h3>
 
-- 🔭 I’m currently working on [[CURRENTLY WORKING ON]](jonathanliang.vercel.app/)
+---
 
-- 🌱 I’m currently learning **[CURRENTLY LEARNING]**
+### 🚀 About Me  
+- 🎓 2nd-year BS/MS Computer Science student at **Georgia Tech (GPA 4.0)**  
+- 💻 Experienced in **full-stack development, machine learning, and system security**  
+- ☁️ Passionate about building **scalable systems**, **end-to-end solutions**, and **ML-driven applications**  
+- 🏊 Fun fact: I used to swim competitively!  
 
-- 👯 I’m looking to collaborate on [[COLLABORATE STUFF]](jonathanliang.vercel.app/)
+---
 
-- 🤝 I’m looking for help with [jonathanliang.vercel.app/](jonathanliang.vercel.app/)
+### 🔨 What I’m Working On  
+- 📡 Competing in the **AFRL Software Defined Radio Challenge (2025–2026)**: developing **ML-driven semantic compression** for efficient multimedia transmission.  
+- 📱 Building personal projects like **mobile workout trackers** and **fake news detection models** that combine applied ML and full-stack engineering.  
 
-- 👨‍💻 All of my projects are available at [jonathanliang.vercel.app/](jonathanliang.vercel.app/)
+---
 
-- 💬 Ask me about **[ASK ME ABOUT]**
+### 💡 Interests  
+- Software Engineering @ Scale  
+- Machine Learning for Real-World Impact  
+- Secure & Efficient System Design  
+- Human-Centered Product Development  
 
-- 📫 How to reach me **[HOW TO REACH ME]**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g-O53DpruIwCd3XREKr-bIRxiIEYkMHU/view](https://drive.google.com/file/d/1g-O53DpruIwCd3XREKr-bIRxiIEYkMHU/view)
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonnyljs" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonnyljs" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/jonleetcode12" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jonleetcode12" height="30" width="40" />
+  </a>
+  <a href="https://jonathanliang.vercel.app/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="portfolio" height="30" width="40" />
+  </a>
+</p>
 
-- ⚡ Fun fact **I used to swim competitively!**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
