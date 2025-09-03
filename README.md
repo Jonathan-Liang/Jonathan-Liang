@@ -64,9 +64,6 @@ Software Engineering @ Scale • ML for Impact • Secure & Efficient Systems �
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin:6px 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" style="margin:6px 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" style="margin:6px 10px;">
-<img src="https://cdn.simpleicons.org/amazondynamodb" alt="DynamoDB" height="40" style="margin:6px 10px;">
-<img src="https://cdn.simpleicons.org/amazons3" alt="S3" height="40" style="margin:6px 10px;">
-<img src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" height="40" style="margin:6px 10px;">
 
 <!-- Row 4: ML/DS -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" height="40" style="margin:6px 10px;">
@@ -87,5 +84,4 @@ Software Engineering @ Scale • ML for Impact • Secure & Efficient Systems �
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" height="40" style="margin:6px 10px;">
 <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" alt="Vercel" height="40" style="margin:6px 10px;">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="40" style="margin:6px 10px;">
-<img src="https://cdn.simpleicons.org/gnuradio" alt="GNU Radio" height="40" style="margin:6px 10px;">
 </div>
