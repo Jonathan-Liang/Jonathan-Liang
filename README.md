@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Liang</h1>
-<h3 align="center">Computer Science Student @ Georgia Tech | Previous SDE Intern @ Amazon</h3>
+<h3 align="center">Computer Science Student @ Georgia Tech | Incoming Fulltime SDE @ Amazon</h3>
 
 <hr/>
 
