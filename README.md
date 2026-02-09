@@ -5,25 +5,25 @@
 
 <div align="center">
 
-### 🚀 About Me
+### About Me
 • 3rd-year BS/MS CS at <b>Georgia Tech (GPA 4.0)</b> • Full-stack, ML, and security  
 • I love building <b>scalable systems</b>, <b>end-to-end products</b>, and <b>ML-driven apps</b>  
 • Fun fact: I used to swim competitively!
 
 <hr/>
 
-### 🔨 What I’m Working On
-• 📡 AFRL SDR Challenge (2025–2026): ML-driven semantic compression for efficient multimedia transmission  
-• 📱 Personal builds: mobile workout tracker, fake-news detection (applied ML + full-stack)
+### What I’m Working On
+• AFRL SDR Challenge (2025–2026): ML-driven semantic compression for efficient multimedia transmission  
+• Personal builds: mobile workout tracker, fake-news detection (applied ML + full-stack)
 
 <hr/>
 
-### 💡 Interests
+### Interests
 Software Engineering @ Scale • ML for Impact • Secure & Efficient Systems • Human-Centered Products
 
 <hr/>
 
-### 🌐 Connect with Me
+### Connect with Me
 <a href="https://www.linkedin.com/in/jonnyljs" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" style="margin:6px 12px;">
 </a>
