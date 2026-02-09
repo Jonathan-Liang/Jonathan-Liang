@@ -6,7 +6,7 @@
 <div align="center">
 
 ### 🚀 About Me
-• 2nd-year BS/MS CS at <b>Georgia Tech (GPA 4.0)</b> • Full-stack, ML, and security  
+• 3rd-year BS/MS CS at <b>Georgia Tech (GPA 4.0)</b> • Full-stack, ML, and security  
 • I love building <b>scalable systems</b>, <b>end-to-end products</b>, and <b>ML-driven apps</b>  
 • Fun fact: I used to swim competitively!
 
